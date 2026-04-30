@@ -48,7 +48,9 @@ treina um modelo de classificação binária e disponibiliza as previsões via a
 
 ```
 Dados Brutos → Limpeza de Texto → Feature Engineering → TF-IDF → Modelo → Previsão
+```
 ### Pipeline de NLP
+```
 1. **Limpeza:** remoção de HTML, pontuação, stopwords, lematização
 2. **Feature Engineering:** n_words, n_exclamation, caps_ratio, avg_word_len
 3. **Vetorização:** TF-IDF com bigramas (30.000 features)
