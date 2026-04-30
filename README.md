@@ -6,7 +6,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.26-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[🔗 **Ver App ao vivo**](LINK_DO_SEU_APP) | [📓 Notebook EDA](notebooks/01_carregamento_eda.ipynb) | [🤗 Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+[🔗 **Ver App ao vivo**](https://feelings-project-nlp-bye7qxcohlcbn5odwzhhd6.streamlit.app) | [📓 Notebook EDA](notebooks/01_carregamento_eda.ipynb) | [🤗 Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ---
 
